@@ -1,0 +1,180 @@
+ Theme (Andante) with Variations,https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/1.mp3,1,3,3
+ Più tosto allegro con espressione,https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/2.mp3,1,1,4
+ Prélude Fugue et Variation Op. 18(C. Franck),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/3.mp3,1,-1,2
+ Impromptus No. 2 in E-Flat Major(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/4.mp3,1,4,7
+ Rondo Capriccioso Op. 14(F. Mendelssohn), https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/5.mp3,1,2,2
+ Vivace ma non troppo Sonata No. 30 Op. 109(L. v. Beethoven),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/6.mp3,1,2,3
+ Prelude in B-Flat Minor BWV 867(J. S. Bach),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/7.mp3,1,-1,3
+ Mazurka No.3 Op. 50(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/8.mp3,1,1,3
+ Andante sostenuto Piano Sonata in B-Flat Major D. 960(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/9.mp3,1,-1,1
+ Allegro moderato Sonata in A flat Major Hob XVI46(J. Haydn),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/10.mp3,1,4,4
+ Hungarian Rhapsody No. 2(F. Liszt),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/11.mp3,1,-2,5
+ Vivace ed energico Op. 37 No. 10(F. Busoni),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/12.mp3,1,-1,5
+ Nocture in E-Flat Major Op. 55 No. 2(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/13.mp3,1,0,3
+ Andantino sostenuto con espressione Op. 37 No. 15(F. Busoni),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/14.mp3,1,2,6
+ Thema Andante Symphonic Etudes Op. 13:(R. Schumann),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/15.mp3,1,-2,2
+ Etudes No. 2 Op. 10(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/16.mp3,1,1,6
+ Funeral March Piano Sonata No. 2(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/17.mp3,1,-2,4
+ Mazurka Op.6 No.1(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/18.mp3,1,-1,4
+ Allegro molto e con brio Piano Sonata No. 4 Op. 7(L. v. Beethoven),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/19.mp3,1,3,6
+ Allegro Piano Sonata K. 576(W. A. Mozart),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/20.mp3,1,4,6
+ No. 4 in F Sharp Major Eight Etudes Op. 42(A. Scriabin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/21.mp3,1,-2,3
+ Asturias Suite Española Op. 47(I. Albeniz),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/22.mp3,1,1,9
+ Nine Variations in C K. 264(W. A. Mozart),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/23.mp3,1,4,6
+ Années de pèlerinage II S. 167: No. 7 Après une lecture de Dante(F. Liszt),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/24.mp3,1,-3,3
+ Allegro con spirito Piano Sonata No. 9 in D Major K. 311(W. A. Mozart),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/25.mp3,1,5,7
+ Äusserst bewegt Kreisleriana Op. 16(R. Schumann),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/26.mp3,1,-2,6
+ Duetto No.1 in E Minor(J. S. Bach),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/27.mp3,1,0,5
+ Allegro Piano Sonata in C minor D. 958(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/28.mp3,1,-2,6
+ Adagio Piano Sonata No. 19 in C Minor D. 958(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/29.mp3,1,-2,2
+ Allegro Piano Sonata No. 19 in C Minor D. 958(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/30.mp3,1,2,7
+ Der Müller und der Bach Die Schöne Müllerin D. 795(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/31.mp3,1,-2,2
+ Menuetto und Trio Sonata No. 18 D. 894(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/32.mp3,1,1,7
+ Sonata in B minor K. 87(D. Scarlatti),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/33.mp3,1,-1,2
+ Moderato Sonata in A Minor D. 845(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/34.mp3,1,0,4
+ Scherzo - Allegro vivace Sonata in A Minor D. 845(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/35.mp3,1,1,7
+ Allegro con brio Sonata in B-Flat Major Op. 24 No. 2(M. Clementi),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/36.mp3,1,2,6
+ Reflets dans l'eau Images - Book 1 L. 110(C. Debussy),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/37.mp3,1,0,1
+ Menuetto. Allegretto - Trio Piano Sonata No. 15 “Reliquie”(F. Schubert),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/38.mp3,1,0,4
+ Sehr langsam Isoldes Liebestod S. 447(F. Liszt / R. Wagner),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/39.mp3,1,-3,4
+ Mephisto Waltz No. 1 S. 514(F. Liszt),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/40.mp3,1,-4,8
+ Prélude English Suite No. 6 in D Minor BWV 811(J. S. Bach),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/41.mp3,1,-2,3
+ No. 6 in G-Sharp Minor 12 Etudes Op. 25(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/42.mp3,1,0,7
+ Prelude in A-Flat Major BWV 862(J. S. Bach),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/43.mp3,1,3,6
+ Allegro Piano Sonata in C Major Hob. XVI:50(F. J. Haydn),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/44.mp3,1,3,5
+ Finale Abegg Variations in F Major Op.1(R. Schumann),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/45.mp3,1,3,6
+ Torrent 12 Etudes Op. 10 No. 4(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/46.mp3,1,0,10
+ Aeolian Harp Douze etudes Op. 25: No. 1(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/47.mp3,1,2,7
+ 32 Piano Variations in C Minor On An Original Theme WoO 80(L. v. Beethoven),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/48.mp3,1,0,5
+ Variations on a Theme by Paganini Op. 35(J. Brahms),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/49.mp3,1,3,8
+ Romanian Folk Dances No. 6(B. Bartók),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/50.mp3,1,2,5
+ Carmen Habanera(J. Bizet),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/51.mp3,1,3,6
+ Fugue No. 5 in D Major BWV 850(J. S. Bach),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/52.mp3,1,2,4
+ Ballade No. 4 in F Minor Op. 52(F. Chopin),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/53.mp3,1,1,3
+ L'absence Sonata No.26 in E-Flat Major Op.81a(L. v. Beethoven),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/54.mp3,1,-2,3
+ Schafe können sicher weiden BWV 208(J. S. Bach),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/55.mp3,1,2,4
+ Presto No. 4 in E Minor 6 Moments musicaux Op. 16(S. Rachmaninoff),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/56.mp3,1,-3,7
+ Mäßig bewegt Sonata for Piano Op. 1(A. Berg),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/57.mp3,1,-2,3
+ Andante favori in F Major WoO 57(L. v. Beethoven),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/58.mp3,1,1,2
+ 9 Variations in D Major on a Minuet by J.D.Duport K. 573(W. A. Mozart),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/59.mp3,1,3,4
+ Lilacs Op. 21 No. 5(S. Rachmaninov),https://memomusic.oss-cn-beijing.aliyuncs.com/ClassicMusic/60.mp3,1,1,3
+ Dear Friends,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/1.mp3,2,-1,4
+ Heal The World,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/2.mp3,2,2,6
+ Love Is Gone,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/3.mp3,2,-3,2
+ What Makes You Beautiful,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/4.mp3,2,5,8
+ YMCA	,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/5.mp3,2,3,6
+ Ultraman Leo,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/6.mp3,2,1,5
+ A Thousand Reasons To Be Sad,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/7.mp3,2,-3,4
+ Three Inches Of Heaven,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/8.mp3,2,-3,3
+ To You,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/9.mp3,2,-1,3
+ Department Of Warden,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/10.mp3,2,-2,3
+ Courage,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/11.mp3,2,2,4
+ There Is Only You In My Heart,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/12.mp3,2,-1,3
+ One Thousand The Sakura,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/13.mp3,2,4,8
+ Just Because You're Beautiful,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/14.mp3,2,-2,5
+ Just Wanna Protect You,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/15.mp3,2,-2,3
+ Confessions Balloon,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/16.mp3,2,2,4
+ Prison Bird,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/17.mp3,2,-2,2
+ Big Fish,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/18.mp3,2,-2,3
+ Solitary Brave,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/19.mp3,2,2,5
+ Heartbroken,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/20.mp3,2,-3,2
+ I Can Not Forget You,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/21.mp3,2,-3,5
+ Wanna Blow With You,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/22.mp3,2,2,4
+ Love Theme From Tiga,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/23.mp3,2,-2,3
+ Slowly,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/24.mp3,2,-2,3
+ Chengdu,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/25.mp3,2,2,3
+ All You Read Are Stars,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/26.mp3,2,1,3
+ Hello Tomorrow,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/27.mp3,2,2,4
+ The Best Future,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/28.mp3,2,-1,6
+ Blame It On The Moon,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/29.mp3,2,2,5
+ Friends,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/30.mp3,2,1,4
+ Li Bai,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/31.mp3,2,-1,3
+ Bedside Fairy Tale,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/32.mp3,2,1,4
+ Ultraman Taro,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/33.mp3,2,3,7
+ Alive,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/34.mp3,2,-1,3
+ Qingming Rain,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/35.mp3,2,-1,2
+ Actor,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/36.mp3,2,-1,3
+ The March Of Floral Spring,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/37.mp3,2,2,3
+ Love You At 105℃,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/38.mp3,2,3,6
+ Love Beauty More Than Beauty,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/39.mp3,2,1,5
+ Monologue,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/40.mp3,2,-3,4
+ The Dawns Here Are Quiet,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/41.mp3,2,-1,4
+ The Fruits Of Summer,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/42.mp3,2,2,4
+ Fairy Tale ,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/43.mp3,2,-2,3
+ The Book Of Laughter And Forgetting,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/44.mp3,2,-2,4
+ Wait For You Until Heartbreaking,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/45.mp3,2,-2,3
+ Give Me Time Of A Song,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/46.mp3,2,-1,4
+ Beautiful Myth,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/47.mp3,2,-3,5
+ Butterfly Spring Edge,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/48.mp3,2,1,4
+ Love Song Of The West Sea,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/49.mp3,2,-2,4
+ Song Of Piglets,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/50.mp3,2,3,5
+ The Wind,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/51.mp3,2,-1,4
+ Green Apple Land,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/52.mp3,2,3,6
+ In Those Years,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/53.mp3,2,-2,4
+ Happy Cloudy Day,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/54.mp3,2,2,5
+ Fatal Fury Special,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/55.mp3,2,0,4
+ Love Like The Tide,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/56.mp3,2,1,4
+ Mercury,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/57.mp3,2,-1,3
+ The Red Girl's Puberty,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/58.mp3,2,1,4
+ Across The River,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/59.mp3,2,-1,5
+ Distant Her,https://memomusic.oss-cn-beijing.aliyuncs.com/PopularMusic/60.mp3,2,-2,6
+ A Love For Life,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/1.mp3,3,1,2
+ Almost A Whisper,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/2.mp3,3,0,2
+ Butterfly Dance,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/3.mp3,3,1,4
+ Enchantment,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/4.mp3,3,-3,4
+ Felitsa,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/5.mp3,3,-2,2
+ First touch,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/6.mp3,3,1,4
+ In the Morning Light,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/7.mp3,3,4,4
+ Keys to Imagination,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/8.mp3,3,2,6
+ Lady Hawk,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/9.mp3,3,2,5
+ Nightingale,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/10.mp3,3,2,5
+ Nostalgia,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/11.mp3,3,-1,6
+ November Sky,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/12.mp3,3,0,3
+ Once Upon A Time,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/13.mp3,3,3,5
+ Only A Memory,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/14.mp3,3,2,4
+ Playing By Heart,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/15.mp3,3,3,5
+ Quiet Man,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/16.mp3,3,2,5
+ Rites of passage,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/17.mp3,3,2,5
+ Optimystique,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/18.mp3,3,1,6
+ Swept away,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/19.mp3,3,3,5
+ The Rain Must Fall,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/20.mp3,3,2,7
+ The Face In The Photograph,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/21.mp3,3,2,3
+ In Your Eyes,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/22.mp3,3,0,6
+ Within Attraction,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/23.mp3,3,-1,8
+ True Nature,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/24.mp3,3,2,3
+ The End of August,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/25.mp3,3,-1,3
+ One Man's Dream,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/26.mp3,3,-2,3
+ In The Mirror,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/27.mp3,3,1,5
+ Into The Deep Blue,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/28.mp3,3,0,6
+ Reflection Of Passion,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/29.mp3,3,2,5
+ Santorini,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/30.mp3,3,0,4
+ To Take To Hold,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/31.mp3,3,2,4
+ Until The Last Moment,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/32.mp3,3,3,5
+ Marching Season,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/33.mp3,3,0,8
+ The Mermaid,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/34.mp3,3,0,3
+ Secret Vows,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/35.mp3,3,1,2
+ A Word In Private,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/36.mp3,3,0,3
+ For All Seasons,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/37.mp3,3,2,4
+ Tribute,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/38.mp3,3,2,5
+ Rainmaker,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/39.mp3,3,0,6
+ Southern Exposure,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/40.mp3,3,1,3
+ At First Sight,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/41.mp3,3,1,4
+ Love Is All,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/42.mp3,3,0,3
+ Never Too Late,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/43.mp3,3,2,5
+ Play Time,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/44.mp3,3,2,7
+ Adagio In C Minor,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/45.mp3,3,0,5
+ Before I Go,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/46.mp3,3,0,4
+ Aria,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/47.mp3,3,3,5
+ Whispers In The Dark,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/48.mp3,3,-1,5
+ Acroyali,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/49.mp3,3,2,3
+ Desire	,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/50.mp3,3,0,6
+ Flight of Fantasy,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/51.mp3,3,4,5
+ Highland,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/52.mp3,3,2,5
+ Looking Glass,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/53.mp3,3,0,4
+ Nice To Meet You,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/54.mp3,3,2,4
+ Prelude,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/55.mp3,3,0,3
+ Renegade,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/56.mp3,3,1,5
+ The Flame Within,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/57.mp3,3,1,2
+ To The One Who Knows,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/58.mp3,3,0,4
+ Waltz In7-8,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/59.mp3,3,2,7
+ With An Orchid,https://memomusic.oss-cn-beijing.aliyuncs.com/YanniMusic/60.mp3,3,3,5
